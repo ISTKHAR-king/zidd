@@ -1,46 +1,90 @@
-# 𝗞𝗔𝗩𝗬𝗔-𝗠𝗨𝗦𝗜𝗖 
- ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
-➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ / ᴠᴘs / ᴋᴏʏᴀʙ / ᴇᴛᴄ..👨🏻‍💻
-<h1 align="center"
- 
-### 🚩🚩 जय महाकाल 🚩🚩
-<h1 align="center"
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗛𝗨𝗡𝗧𝗘𝗥+𝗫𝗗+🚩+🍁"></b></h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐑ɪʏᴀ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://t.me/VIP_ANKIT_121"><img src="https://files.catbox.moe/zjd1in.jpg" width="400"></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</p>
-ᴋᴏᴜsʜᴀʟ
+
 <p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+<h1 align="center">🎵 Telegram Music Bot API</h1>
+<p align="center">
+  Stream Audio & Video in your Telegram Music Bots — fast, secure, and cookie-free.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/license-Commercial-red.svg" alt="License Badge">
+</p>
+
+---
+
+## 🚀 Overview
+
+Introducing a **robust API** for Telegram Music Bots that allows **audio & video playback** with **zero cookies** and **minimal errors**. This API is designed for **developers, music bot owners**, and anyone building scalable music systems on Telegram.
+
+---
+
+## ✨ Features
+
+- ✅ Audio & Video Streaming Support  
+- ✅ Cookie-free & Error-free Playback  
+- ✅ API Key Based Access  
+- ✅ Flexible Rate Limits  
+- ✅ Affordable Monthly Plans  
+- ✅ Easy Integration (Python, Node.js, C++, etc.)
+
+---
+
+## 💰 Pricing & Plans
+
+| 💼 Plan        | ⚡ Rate Limit         | ♾️ Usage     | 💵 Price (INR/month) | 🔑 Access Type    |
+|---------------|-----------------------|-------------|----------------------|------------------|
+| 🟢 **Lite**      | 5000 requests/day     | per month    | ₹50                  | API_KEY          |
+| 🔵 **Basic**     | 10000 requests/day     | per month    | ₹89                 | API_KEY          |
+| 🟣 **Pro**       | 15000 requests/day    | per month    | ₹129                 | API_KEY          |
+| 🔴 **Ultra pro** | 20000 requests/day    | per month    | ₹198                 | API_KEY          |
+
+> **Note:** API keys are unique to each user. The Unlimited plan is tied to a single IP address.
+
+---
+
+
+
+## ⚙️ API Usage
+
+**Base Endpoint**
+
+🔑 API Access Key
+
+Contact US [𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/ll_KSD_ll)
+
+
+---
+
+<h2 align="center">
+    ──「 Telegram Music Bot 」──
+</h2>
+
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ifgovtjoftibcdjpvd8nfiokbfobffob0vrb8bd/mtv"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMRIYA/RiyaMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/teamayushi/Ayesha-Music/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/TEAMRIYA/RiyaMusic/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
-- Install Ffmpeg & Python by :
+- Install Ffmpeg by :
 `sudo apt-get install python3-pip ffmpeg -y`
+- Install required packages by :
+`sudo apt-get install python3-pip -y`
 - Install pip by :
 `sudo pip3 install -U pip`
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/teamayushi/Ayesha-Music  && cd Ayesha-music`
+`git clone https://github.com/TEAMRIYA/RiyaMusic && cd RiyaMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -56,10 +100,23 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
+<p align="center">
+<a href="https://t.me/Riyaupdates"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
+<p align="center">
+<a href="https://telegram.me/RiyaUpdates"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-### Contact :
-<a href="https://t.me/ll_hunter_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<p align="center">
+  Made with ❤️ by <strong>RIYABOTS</strong>
+</p>
+```
 
-<a href="https://instagram.com/ksdofficial84"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ SHIVANSH For [Core Development](https://github.com/itzshukla)
+- <br>_Maintainer  [KSD](https://github.com/ksdofficial8)
+- 
